@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+streamlit
+joblib
+statsmodels
+prophet==1.1.3; # note: if prophet installation fails, the train.py falls back to simple sklearn model
